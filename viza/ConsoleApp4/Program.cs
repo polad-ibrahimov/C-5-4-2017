@@ -15,10 +15,10 @@ namespace ConsoleApp4
             double netice;
 
             Console.WriteLine("viza daxil edin: ");
-            g_viza = Convert.ToInt32(Console.ReadLine());
+            g_viza = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine("final daxil edin: ");
-            g_final = Convert.ToInt32(Console.ReadLine());
+            g_final = Int32.Parse(Console.ReadLine());
 
             netice = g_viza * 0.4 + g_final * 0.6;
 
