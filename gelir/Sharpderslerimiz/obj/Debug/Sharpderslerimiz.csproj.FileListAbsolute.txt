@@ -1,0 +1,6 @@
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\bin\Debug\Sharpderslerimiz.exe.config
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\bin\Debug\Sharpderslerimiz.exe
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\bin\Debug\Sharpderslerimiz.pdb
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\obj\Debug\Sharpderslerimiz.csprojResolveAssemblyReference.cache
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\obj\Debug\Sharpderslerimiz.exe
+C:\Users\TexnoUSTA\Documents\Visual Studio 2017\Projects\Sharpderslerimiz\Sharpderslerimiz\obj\Debug\Sharpderslerimiz.pdb
