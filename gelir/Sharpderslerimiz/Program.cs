@@ -14,11 +14,11 @@ namespace Sharpderslerimiz
             double faiz, net_gelir;
 
             Console.WriteLine("Gunluk geliri daxil edin: ");
-            gun_gelir = Convert.ToInt32(Console.ReadLine());
+            gun_gelir = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine("Gun sayini daxil edin: ");
 
-            gun_sayi = Convert.ToInt32(Console.ReadLine());
+            gun_sayi = Int32.Parse(Console.ReadLine());
             brut_gelir = gun_gelir * gun_sayi;
 
             if(brut_gelir >= 1000)
